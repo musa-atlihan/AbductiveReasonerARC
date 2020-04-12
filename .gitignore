@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 /data/dataset
+/data/outputs
 /.idea
 
 __pycache__/
